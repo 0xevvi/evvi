@@ -32,15 +32,15 @@ In the society we live today, surveillance is major part of how governments keep
 
 There are entities that track us government agencies, technology companies and data mining companies, rely on you to leak little  pieces of data which they use to profile you online and match the username to actual person. It's simple matter to match content in databases if there is some sort of index to the content. Most common pieces of data used to track you on clear-net and dark-net are:
 
-Names (real and usernames)
-IP addresses
-Browser fingerprint
-E-mail address
-Location (exact or approximate)
-Phone numbers
-Date of birth
-Stylometry
-Facial recognition 
+- Names (real and usernames)
+- IP addresses
+- Browser fingerprint
+- E-mail address
+- Location (exact or approximate)
+- Phone numbers
+- Date of birth
+- Stylometry
+- Facial recognition 
 
 It's important to understand that just two elements from that list is enough to track you. So your job is to deny them from getting two peices of real data if you wish to stay anonymous.
 
@@ -48,13 +48,13 @@ It's important to understand that just two elements from that list is enough to 
 
 Now we know how we're being tracked, let's take a look at about how we can use misinformation to make it much harder for these entities to track you.
 
-Names - don't use your real names anywhere on the internet and avoid websites that require one. Rely on aliases, pseudo anonymous is better than being caught.
-IP Address - Mask your IP address by using Tor, VPN, VPS, RDP or proxies. Depending on what you're actually doing you might want to combine some of these. The point being use what is at your disposal to make their lives harder.
-Browser fingerprint - This one is probably hardest to conceal if you are not tech savy, but you can always use several browsers with different plugins to make it appear as if you're several persons.
-Phone numbers - stop linking your personal phone numbers to services such as instant messengers, social media applications and two-factor authentication on services. Go ahead and purchase VOIP number with crypto or use things such as Yubi key for 2FA authentication.
-Email addresses - Probably the easiest, use several e-mails under different names for different purposes. Keep things separate!
-Stylometry - I really like this one, is the application of study of linguistic style. For example I can say 10% or 10 percent or ten percent. Each of these are different and can be used to mask your true identity. Also, when I wrote this post, I could have easily gone to some translation service and done this. Translate from English to Russian, Russian to Hebrew, Hebrew to German and German to English. This will tumble the text and make it very unique stylometry wise from what how you wrote it originally. Make sure to spell check it.
-Deception and lies - not the kind you're expecting, let's say you're on Discord and you want to mention a pet you have for making some point in a discussion. Now, it considered bad OpSec to say "I also have brown cat", instead say you have a "white husky" that way you can still say you have pet but without exposing intel about you, making such subtle changes to details is crucial if you want to stay hidden.
+- Names - don't use your real names anywhere on the internet and avoid websites that require one. Rely on aliases, pseudo anonymous is better than being caught.
+- IP Address - Mask your IP address by using Tor, VPN, VPS, RDP or proxies. Depending on what you're actually doing you might want to combine some of these. The point being use what is at your disposal to make their lives harder.
+- Browser fingerprint - This one is probably hardest to conceal if you are not tech savy, but you can always use several browsers with different plugins to make it appear as if you're several persons.
+- Phone numbers - stop linking your personal phone numbers to services such as instant messengers, social media applications and two-factor authentication on services. Go ahead and purchase VOIP number with crypto or use things such as Yubi key for 2FA authentication.
+- Email addresses - Probably the easiest, use several e-mails under different names for different purposes. Keep things separate!
+- Stylometry - I really like this one, is the application of study of linguistic style. For example I can say 10% or 10 percent or ten percent. Each of these are different and can be used to mask your true identity. Also, when I wrote this post, I could have easily gone to some translation service and done this. Translate from English to Russian, Russian to Hebrew, Hebrew to German and German to English. This will tumble the text and make it very unique stylometry wise from what how you wrote it originally. Make sure to spell check it.
+- Deception and lies - not the kind you're expecting, let's say you're on Discord and you want to mention a pet you have for making some point in a discussion. Now, it considered bad OpSec to say "I also have brown cat", instead say you have a "white husky" that way you can still say you have pet but without exposing intel about you, making such subtle changes to details is crucial if you want to stay hidden.
 
 >Quote: Sun Tzu
  “Engage people with what they expect; it is what they are able to discern and confirms their projections. It settles them into predictable patterns of response, occupying their minds while you wait for the extraordinary moment — that which they cannot anticipate.”
