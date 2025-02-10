@@ -3,7 +3,9 @@ I'm Evvi, a Tamil Researcher, Journalist, Entrepreneur and Programmer.
 **Every stripe on the tiger is unique—a living testament to the power of individuality, just as I am.**
 ![[ascii-tgr.png]]
 
-Currently, I'm working on "Yell0w-G3rd3n".  The garden's aim is to educate by providing resources and tools.
+Yell0w-G4rd3n is dedicated to educating individuals on industry-standard practices, resources, and tools used by tech companies, government agencies, the UN, NGOs, and professionals involved in current political affairs.
+
+**"Safety isn’t just a priority—it’s a way of life. Stay aware, stay prepared, and practice it at all times."**
 
 ## Reach me on:
 
