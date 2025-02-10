@@ -1,11 +1,3 @@
 ---
-longform:
-  format: scenes
-  title: Evvi
-  workflow: Default Workflow
-  sceneFolder: /
-  scenes: []
-  ignoredFiles: []
+title: Welcome to the Age of Information
 ---
-
-![[aoi-tgr.png]]
