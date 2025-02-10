@@ -4,8 +4,7 @@ longform:
   title: Yell0w-G4rd3n
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - About
+  scenes: []
   sceneTemplate: system/templates/chapter.md
   ignoredFiles: []
 ---
