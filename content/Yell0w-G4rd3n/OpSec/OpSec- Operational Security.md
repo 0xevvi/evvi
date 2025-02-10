@@ -9,7 +9,7 @@ What I am trying to aim for here is to keep you safe by keeping you aware.
 
 **Remember this: law enforcement can make all the mistakes they can, but you can’t make a single mistake. Sure, you can get lucky and catch a break. But don’t play with probabilities and you certainly can’t go back in time and clean up that one, single mistake.)**
 
-**Definition of Operational Security**
+## **Definition of Operational Security**
   
 By definition Operational Security was derived from military term procedural security, originated as a term that described strategies to prevent potential adversaries from discovering critical operations-related data. Which is an analytical process that classifies information assets and determines the control required to provide these assets.  
   
@@ -26,41 +26,41 @@ A real life example takes us back to ancient Rome, around 2000 years ago, during
 
 Now in the modern era, it's much easier to conduct misinformation warfare.
 
-## How are you being tracked
+## **How are you being tracked**
 
 In the society we live today, surveillance is major part of how governments keep the  general public in line. TO understand how we can use misinformation against them we first must understand how it's being used on you:
 
 There are entities that track us government agencies, technology companies and data mining companies, rely on you to leak little  pieces of data which they use to profile you online and match the username to actual person. It's simple matter to match content in databases if there is some sort of index to the content. Most common pieces of data used to track you on clear-net and dark-net are:
 
-Names (real and usernames)
-IP addresses
-Browser fingerprint
-E-mail address
-Location (exact or approximate)
-Phone numbers
-Date of birth
-Stylometry
-Facial recognition 
+- Names (real and usernames)
+- IP addresses
+- Browser fingerprint
+- E-mail address
+- Location (exact or approximate)
+- Phone numbers
+- Date of birth
+- Stylometry
+- Facial recognition 
 
 It's important to understand that just two elements from that list is enough to track you. So your job is to deny them from getting two peices of real data if you wish to stay anonymous.
 
-## How to use misinformation in your favour
+## **How to use misinformation in your favour**
 
 Now we know how we're being tracked, let's take a look at about how we can use misinformation to make it much harder for these entities to track you.
 
-Names - don't use your real names anywhere on the internet and avoid websites that require one. Rely on aliases, pseudo anonymous is better than being caught.
-IP Address - Mask your IP address by using Tor, VPN, VPS, RDP or proxies. Depending on what you're actually doing you might want to combine some of these. The point being use what is at your disposal to make their lives harder.
-Browser fingerprint - This one is probably hardest to conceal if you are not tech savy, but you can always use several browsers with different plugins to make it appear as if you're several persons.
-Phone numbers - stop linking your personal phone numbers to services such as instant messengers, social media applications and two-factor authentication on services. Go ahead and purchase VOIP number with crypto or use things such as Yubi key for 2FA authentication.
-Email addresses - Probably the easiest, use several e-mails under different names for different purposes. Keep things separate!
-Stylometry - I really like this one, is the application of study of linguistic style. For example I can say 10% or 10 percent or ten percent. Each of these are different and can be used to mask your true identity. Also, when I wrote this post, I could have easily gone to some translation service and done this. Translate from English to Russian, Russian to Hebrew, Hebrew to German and German to English. This will tumble the text and make it very unique stylometry wise from what how you wrote it originally. Make sure to spell check it.
-Deception and lies - not the kind you're expecting, let's say you're on Discord and you want to mention a pet you have for making some point in a discussion. Now, it considered bad OpSec to say "I also have brown cat", instead say you have a "white husky" that way you can still say you have pet but without exposing intel about you, making such subtle changes to details is crucial if you want to stay hidden.
+- Names - don't use your real names anywhere on the internet and avoid websites that require one. Rely on aliases, pseudo anonymous is better than being caught.
+- IP Address - Mask your IP address by using Tor, VPN, VPS, RDP or proxies. Depending on what you're actually doing you might want to combine some of these. The point being use what is at your disposal to make their lives harder.
+- Browser fingerprint - This one is probably hardest to conceal if you are not tech savy, but you can always use several browsers with different plugins to make it appear as if you're several persons.
+- Phone numbers - stop linking your personal phone numbers to services such as instant messengers, social media applications and two-factor authentication on services. Go ahead and purchase VOIP number with crypto or use things such as Yubi key for 2FA authentication.
+- Email addresses - Probably the easiest, use several e-mails under different names for different purposes. Keep things separate!
+- Stylometry - I really like this one, is the application of study of linguistic style. For example I can say 10% or 10 percent or ten percent. Each of these are different and can be used to mask your true identity. Also, when I wrote this post, I could have easily gone to some translation service and done this. Translate from English to Russian, Russian to Hebrew, Hebrew to German and German to English. This will tumble the text and make it very unique stylometry wise from what how you wrote it originally. Make sure to spell check it.
+- Deception and lies - not the kind you're expecting, let's say you're on Discord and you want to mention a pet you have for making some point in a discussion. Now, it considered bad OpSec to say "I also have brown cat", instead say you have a "white husky" that way you can still say you have pet but without exposing intel about you, making such subtle changes to details is crucial if you want to stay hidden.
 
 >Quote: Sun Tzu
  “Engage people with what they expect; it is what they are able to discern and confirms their projections. It settles them into predictable patterns of response, occupying their minds while you wait for the extraordinary moment — that which they cannot anticipate.”
 
 
-## Compartmentalisation 
+## **Compartmentalisation** 
 
 Why is Qubes OS considered one of the most secure OS available today? Because if makes use of compartmentalisation. Keeping things separate is probably the best way to avoid anyone from tracking you.
 
@@ -73,7 +73,7 @@ Doesn't matter if you're a genius, hacker, regular user or just a privacy consci
 
 Don't mix your real identity with your online identities, because if you do sooner or later they will be tied together and back to you.
 
-## Security is not convenience 
+## **Security is not convenience** 
 
 Security is not convenience and you can't have it both ways, but applying these or some of these patterns to your digital life will exponentially improve your operation security.
 
@@ -82,7 +82,7 @@ Keep your mouth shut!
 
 Nobody needs to know what you have done, what are you going to do.
 
-# D.U.M.B
+## **D.U.M.B**
 
 This section is about physical OpSec and you might wonder what does D.U.M.B stands for? 
 Deep Underground Military Bases.
@@ -97,20 +97,19 @@ People usually don't care too much but make no mistake it's important as digital
 
 I list my advice you might find usable:
 
-Don't talk too much - about what you are doing, no one needs to know
-Don't shit where you eat - Simple one to understand
-Think ahead - Always, and always have a kill switch(exit plan) or put down payment to the most expensive lawyer, just make sure you have a plan.
+- Don't talk too much - about what you are doing, no one needs to know
+- Don't shit where you eat - Simple one to understand
+- Think ahead - Always, and always have a kill switch(exit plan) or put down payment to the most expensive lawyer, just make sure you have a plan.
 
-## Real life example of OpSec failures
+## **Real life example of OpSec failures**
 
 These are real life examples of even smart people learn from others mistake not their own.
 
 Recent name  in the news after Trump Pardoned few people, one of them is Ross Ulbricht, a revolutionare, extremly intelligent but not necessarily smart at all. Among many stupid things he did are; using a miss-configured CHAPTA server extensive period of time, shipping contraband to his home address, advertising Silk Road on Shroomery using his own gmail address, befriending former undercover DEA agent (who later extorted him for money), keeping logs of all of his conversations and down to detail diary of this Silk Road adventures. But, the most fatal one was him not being aware of his surroundings. For the most part he operated Silk Road form the comfort of San Fansicso Pulic Library, where he went wrong was sitting at a table with his back turend to the room. While two FBI agents staged a couple fighting, their colleauges swooped in from behind and grabed the lap top beofre he could shut it off and trigger the encryption process. He basically documented all of his crimes among others – so don‘t be DPR.
 
 
-## Conclusion 
+## **Conclusion** 
 
 If you got this far, that means I have done some what of good job keeping you posted. In conclusion, I want re-iterate that OpSec is the holy grail of anonimity. Always make sure you are OpSec is up to date, because it changes by the minute. Always stay ahead of things and say nothing of your movement. 
 
-I enjoyed writing this and hopefully you have learned something new.
 
