@@ -8,4 +8,4 @@ longform:
   ignoredFiles: []
 ---
 
-Welcome to the information age
+![[aoi-tgr.png]]
