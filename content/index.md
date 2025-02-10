@@ -7,3 +7,5 @@ longform:
   scenes: []
   ignoredFiles: []
 ---
+
+Welcome to the information age
