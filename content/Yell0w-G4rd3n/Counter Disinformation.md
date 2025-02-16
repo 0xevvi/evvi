@@ -34,6 +34,5 @@ Furthermore, state-sponsored disinformation campaigns are becoming more sophisti
 
 In the face of this growing threat, we must take a stand. The time to act is now.
 
-
 ### Resource
 [United Nations Report: Countering disinformation for the promotion and protection of human rights and fundamental freedoms](https://digitallibrary.un.org/record/3987886?ln=en&v=pdf#files)
