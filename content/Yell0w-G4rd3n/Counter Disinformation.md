@@ -33,3 +33,7 @@ To counter this threat, it is we act swiftly to create and implement policies th
 Furthermore, state-sponsored disinformation campaigns are becoming more sophisticated, it is essential to ensure that civilians are empowered to form their own narratives. This requires an emphasis on evidence-based information that allows people to critically evaluate the messages they encounter and make informed decisions. By promoting media literacy and providing access to factual, transparent, and diverse sources of information, we can give individuals the tools they need to resist manipulation and develop their own understanding of complex issues.
 
 In the face of this growing threat, we must take a stand. The time to act is now.
+
+
+### Resource
+[United Nations Report: Countering disinformation for the promotion and protection of human rights and fundamental freedoms](https://digitallibrary.un.org/record/3987886?ln=en&v=pdf#files)
